@@ -13,11 +13,11 @@
 
 **Concept A — Modern, Sleek, and Commercial (Chosen Direction)**  
  
-<img width="743" height="1024" alt="image" src="https://github.com/user-attachments/assets/f0a369ac-b04d-4b15-8327-cc5918af7af3" />
+![Concept A](images/concepta.png)
 
 **Concept B — Industrial and Functional**  
 
-<img width="743" height="1024" alt="image" src="https://github.com/user-attachments/assets/ace1147e-5373-4d2b-a19e-7216ca7d24af" />
+![Concept B](images/conceptb.jpg)
 
 *Note: The ZED stereo head is supposed to be at the top and center of the robot, not at the left shoulder of the robot. These details were generated incorrectly in the image.*
 
@@ -30,7 +30,7 @@ I chose Concept A as the direction to carry forward. Because the arm is used for
 
 **CAD Model:**  
 
-<img width="341" height="490" alt="image" src="https://github.com/user-attachments/assets/4372f328-904a-45e7-a497-a1125afeed31" />
+![Cad Model](images/cadss.png)
 
 **Explanation:**  
 I built my exterior shell in Onshape by working on top of the provided OpenArm 2.0 STEP file sourced from docs.openarm.dev. I imported the robot's internal structure as a reference, then created a separate Part Studio for my shell so I wouldn't accidentally modify the mechanics.
@@ -60,7 +60,7 @@ The OpenArm 2.0 has four cameras: two wrist Arducams (left/right), one ceiling A
 ## Task 4: Mobile Base + Manipulator Integration
 
 **Sketches:**  
-<img width="743" height="1024" alt="image" src="https://github.com/user-attachments/assets/3be7c57c-a192-4d53-a4ab-712994089ae0" />
+![Task 4](images/task4img.png)
 
 *Note: The batteries are supposed to lie in the mobile base of the robot, not in the central support beam. The wiring runs through the central support beam instead. These details were generated incorrectly in the image.*
  
