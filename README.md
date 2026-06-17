@@ -46,6 +46,7 @@ Although this is a simplified version where I didn't model every surface, I focu
 **File:** 
 https://cad.onshape.com/documents/2bc80f60b1c6dd7224b3004b/w/d4c8081ecb45f7441266ba00/e/a1c2a0642ac821b66e6316ae?renderMode=0&uiState=6a3236a4654e2233d116c505
 
+*Note: My STEP file was too big for GITHUB, therefore, I was unable to upload it. I shared a link through OnShape instead.*
 
 ---
 
